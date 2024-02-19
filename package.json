@@ -5,7 +5,14 @@
   "repository": "https://github.com/nsRodrigo/nodejs-API-devHouse.git",
   "author": "Rodrigo do N Silva <rodrigo.nascim.silva@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "sucrase": "^3.35.0"
   }
 }
