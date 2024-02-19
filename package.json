@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-API-devHouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nsRodrigo/nodejs-API-devHouse.git",
+  "author": "Rodrigo do N Silva <rodrigo.nascim.silva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
